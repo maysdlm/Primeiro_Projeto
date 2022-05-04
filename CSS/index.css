@@ -1,0 +1,25 @@
+body {
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+    font-family: arial;
+    color:black;
+    background-color: #FAF0E6;
+}
+.container {
+    text-align: center;
+    color: #CD5C5C
+}
+
+.center {
+    text-align: center;
+}
+.corpo {
+    max-width:300px;
+    margin: auto;
+}
+img {
+    width: 400px;
+    height: 300px;
+    margin-top: 10px;
+}
